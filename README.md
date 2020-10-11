@@ -1,6 +1,6 @@
 # DiscordSoundBot
 Simple Discord bot created from python.
-Need ffmpeg and discord libraries to function
+Need ffmpeg installed and discord library to function
 
 Features:
 - Play specific mp3 file in your computer to a voice channel
